@@ -1,7 +1,4 @@
-# hotel-booking-cancellation-prediction
-
-## **Title**
-Hotel Booking Cancellation Prediction
+# 🏨 Hotel Booking Cancellation Prediction
 
 ## Description
 This project addresses a significant challenge in the hotel industry: unexpected cancellations of bookings that lead to lost revenue and operational disruptions. By developing a predictive model, the project aims to forecast the likelihood of hotel booking cancellations, utilizing a variety of factors including booking details, customer data, and historical trends. The primary stakeholders, including hotel management and staff, stand to benefit significantly as the model's insights will guide key decisions related to room allocation, staffing, and overall operational strategies. To achieve this, the project evaluates four different classification models to identify the most effective solution, ultimately aiming to enhance resource management, revenue handling, and customer service within the hotel sector.
